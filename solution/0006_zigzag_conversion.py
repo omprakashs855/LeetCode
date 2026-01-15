@@ -1,7 +1,7 @@
 # Zigzag Conversion
 
 class Solution:
-    def convert(self, s:str, numRows:int) -> str:
+    def convert_math(self, s:str, numRows:int) -> str:
         if numRows < 2:
             return s
         else:
@@ -34,8 +34,31 @@ class Solution:
             out_str = "".join([x for x in data.values()])
             return out_str
 
+    # Most Fastest # Less Math
+    def convert(self, s, numRows):
+        if numRows < 2:
+            return s
+        else:
 
+            rows = [""]*numRows
+            direction = 1 # down
+            cur = 0
+
+            for i in range(len(s)):
+
+                rows[cur] += s[i]
+                if cur == 0:
+                    direction = 1
+                elif cur == numRows-1:
+                    direction = -1
+
+                cur += direction
+
+            return "".join(rows)
 
 
 obj = Solution()
-print(obj.convert(s = "PAYPALISHIRING", numRows = 10))
+s = "PAYPALISHIRING"
+numRows = 4
+print(obj.convert(s, numRows))
+print(obj.convert_math(s, numRows))
