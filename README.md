@@ -11,3 +11,4 @@ Problem Link : https://leetcode.com/problems/
 | Q4 | [Median of Two Sorted Arrays](problem/0004_median_of_two_sorted_arrays.md) | [Link](https://leetcode.com/problems/median-of-two-sorted-arrays/) | `solution\0004_median_of_two_sorted_arrays.py` |
 | Q5 | [Longest Palindrom Substring](problem/0005_longest_palindrom.md) | [Link](https://leetcode.com/problems/longest-palindromic-substring/) | `solution\0005_longest_palindrom.py` |
 | Q6 | [Zigzag Conversion](problem/0006_zigzag_conversion.md) | [Link](https://leetcode.com/problems/zigzag-conversion/) | `solution\0006_zigzag_conversion.py` |
+| Q7 | [Reverse Integer](problem/0007_reverse_integer.md) | [Link](https://leetcode.com/problems/reverse-integer/) | `solution\0007_reverse_integer.py` |
