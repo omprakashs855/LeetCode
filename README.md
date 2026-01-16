@@ -4,7 +4,7 @@
 Problem Link : https://leetcode.com/problems/
 
 | Q.No | Problems | Leetcode Link | Solutions |
-|:----:|:--------:|:-------------:|:---------:|
+|:----:|:---------|:-------------:|:----------|
 | Q1 | [Two Sum](problem/0001_two_sum.md) | [Link](https://leetcode.com/problems/two-sum/) | `solution\0001_two_sum.py` |
 | Q2 | [Add Two Numbers](problem/0002_add_two_numbers.md) | [Link](https://leetcode.com/problems/add-two-numbers/) | `solution\0002_add_two_numbers.py` |
 | Q3 | [Longest Substring Without Repeating Characters](problem/0003_longest_substring_without_repeating_characters.md) | [Link](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | `solution\0003_longest_substring_without_repeating_characters.py` |
@@ -12,3 +12,4 @@ Problem Link : https://leetcode.com/problems/
 | Q5 | [Longest Palindrom Substring](problem/0005_longest_palindrom.md) | [Link](https://leetcode.com/problems/longest-palindromic-substring/) | `solution\0005_longest_palindrom.py` |
 | Q6 | [Zigzag Conversion](problem/0006_zigzag_conversion.md) | [Link](https://leetcode.com/problems/zigzag-conversion/) | `solution\0006_zigzag_conversion.py` |
 | Q7 | [Reverse Integer](problem/0007_reverse_integer.md) | [Link](https://leetcode.com/problems/reverse-integer/) | `solution\0007_reverse_integer.py` |
+| Q8 | [Reverse Integer](problem/0008_string_to_integer.md) | [Link](https://leetcode.com/problems/string-to-integer-atoi/) | `solution\0008_string_to_integer.py` |
