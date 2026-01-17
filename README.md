@@ -13,3 +13,4 @@ Problem Link : https://leetcode.com/problems/
 | Q6 | [Zigzag Conversion](problem/0006_zigzag_conversion.md) | [Link](https://leetcode.com/problems/zigzag-conversion/) | `solution\0006_zigzag_conversion.py` |
 | Q7 | [Reverse Integer](problem/0007_reverse_integer.md) | [Link](https://leetcode.com/problems/reverse-integer/) | `solution\0007_reverse_integer.py` |
 | Q8 | [Reverse Integer](problem/0008_string_to_integer.md) | [Link](https://leetcode.com/problems/string-to-integer-atoi/) | `solution\0008_string_to_integer.py` |
+| Q9 | [Palindrome](problem/0009_palindrome.md) | [Link](https://leetcode.com/problems/palindrome-number/) | `solution\0009_palindrome.py` |
